@@ -306,7 +306,7 @@ font-family: 'Poppins', sans-serif;
 
 .update2{
     font-size: 50px;
-    background-color:rgba(214, 226, 226, 0.671);
+    background-color:rgba(214, 226, 226, 0.507);
     width: 30%;
     padding:50px 80px;
     border-radius: 4px;
@@ -324,11 +324,11 @@ font-family: 'Poppins', sans-serif;
 
 .subs-cribe{
    text-decoration: none;
-   background-color: rgba(158, 158, 157, 0.884);
+   background-color: rgb(88, 88, 83);
    
     color: white;
     padding:9px 20px;
-    border-radius:4px 6px 6px 0px;
+    border-radius:2px 6px 6px 0px;
     font-size:16px;
     margin-left: -5px;
     border: none;
