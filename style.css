@@ -1,0 +1,358 @@
+/* body state */
+
+body{
+padding: 0px;
+margin:0px;
+font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+}
+
+/* body end */
+
+
+/* header-pic state */
+
+.header-pic{
+    background-image: url(img/headerpic.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    height: 600px;
+   
+   
+   
+}
+
+/* header- pic end */
+
+
+/* header-text state */
+
+.header-text h1{
+    font-size:45px;
+    font-weight: 700;
+    color:rgb(238, 230, 214);
+
+}
+
+/* header-text end */
+
+
+/* header-text state */
+
+
+.header-text{
+    text-align:center;
+    padding: 100px;
+   
+}
+
+/* header-text end */
+
+/* color state */
+
+.co-lor{
+   color:whitesmoke;
+    font-size: large;
+    font-weight: bold;
+    margin: 30px;
+}
+
+/* color end */
+
+
+/*donation state*/
+
+.dona-tion{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 4, 159), rgba(43, 255, 0, 0.767));
+    color: azure;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size:18px;
+    
+}
+
+/*donation end */
+
+/*donate-tody */
+
+.donate-tody{
+    text-align: center;
+    margin: 20px 20px;
+    padding: 20px 20px;
+}
+
+/*donate-tody  end */
+
+/* donate 1 state */
+.donate1{
+
+   font-size:45px;
+   font-weight: 700;
+}
+
+/* donate 1 end */
+
+/* cad-tk p state*/
+.cad-tk p{
+    
+    font-size:20px;
+    font-weight: 700;
+    display: inline;
+    border: 1px solid tomato;
+    color: rgba(150, 67, 67, 0.781);
+    background-color:white;
+    padding:20px 8px;
+    border: none;
+}
+
+/* cad-tk p end */
+
+/* cad-design state */
+
+.cad-design{
+   font-size:20px;
+   font-weight: 700;
+   background-color:white;
+   border: 1px solid tomato;
+   padding:20px 8px;
+   color:rgb(231, 23, 0);
+   border-radius: 4px;
+}
+
+/* cad-design state */
+
+/* cad-tk state*/
+
+
+.cad-tk{
+    text-align: center;
+    margin-bottom:70px;
+
+}
+
+/* cad-tk end*/
+
+/* in-put h3 state */
+
+.inpput-design{
+    text-align: center;
+    border: none;
+   
+}
+
+/* in-put h3 end */
+
+
+/* input-hiden state */
+
+ .input-hide{
+   font-size:16px;
+    border: none;
+    border-bottom: 1px solid rgb(192, 176, 176);
+    width:60%;
+    text-align: center;
+    padding: 12px;
+ }
+
+ /* input-hiden end */
+
+
+ /* .do-nate2 state */
+
+ .do-nate2{
+
+    text-decoration: none;
+    background-image: linear-gradient(rgba(216, 80, 56, 0.829), rgba(255, 166, 0, 0.74)); 
+    color: white;
+    padding: 14px 15px;
+    font-size:16px;
+    border-radius:3px;
+    font-weight: 700;
+    text-align: center;
+    margin-top:100px;
+     
+ }  
+
+ /* .do-nate2 end*/
+
+  /* .do-nate 3 state */
+
+.donate-3{
+   margin-top:30px;
+}
+   /* do-nate2 end */
+
+
+ /* text-c state */
+
+ .text-c{
+   margin:4px;
+   text-align: center;
+}
+
+  /* text-c end */
+
+
+  /*  onate-plaing state  */
+
+ .donate-plaing{
+
+    text-align: center;
+    margin-top:60px;
+    
+
+ }
+ 
+ 
+  /*  onate-plaing end  */
+
+/* family-sheltar state */
+
+ .family-sheltar{
+
+    display: flex;
+
+    width:100%;
+    
+   
+
+ }
+
+ /* family-sheltar end */
+
+/* food family state */
+
+ #food-family{
+
+   
+    background-color:rgba(255, 222, 173, 0.562);
+    color: black;
+    border-radius: 5px;
+    padding: 50px 46px;
+    margin: 35px;
+    border: none;
+
+ }
+
+ /* food family end */
+
+ /* shelter family state */
+ .shelter-family{
+    
+    background-color:rgba(128, 128, 128, 0.178);
+    color: black;
+    border-radius: 5px;
+    padding: 50px 46px;
+    margin: 35px;
+    border: none;
+    
+ }
+
+ /* shelter family end */
+
+ /* education state */
+
+ #education{
+
+    
+    background-color: rgba(0, 255, 255, 0.13);
+    color: black;
+    border-radius: 5px;
+    padding: 50px 46px;
+    margin: 35px;
+    border: none;
+ }
+
+ /* education end */
+
+ /* possitive state */
+
+ .possitive {
+   text-align: center;
+   
+ }
+
+ /* possitive end */
+
+
+
+ /* update state*/
+.update{
+
+    text-align: center;
+ }
+
+ /* update end */
+
+ /*update h2 state */
+ .update h2{
+    font-size: 50px;
+    margin: 0 auto;
+ }
+
+ /*update h2 end */
+
+ /* update2 state */ 
+
+.update2{
+    font-size: 50px;
+    background-color:rgba(214, 226, 226, 0.671);
+    width: 30%;
+    padding:50px 80px;
+    border-radius: 4px;
+}
+
+/* update2 end */
+.update2{
+   text-align: center;
+    margin: auto;
+    margin-top: 33px;
+  }
+
+
+/* subs-crib state */
+
+.subs-cribe{
+   text-decoration: none;
+   background-color: rgba(158, 158, 157, 0.884);
+   
+    color: white;
+    padding:9px 20px;
+    border-radius:4px 6px 6px 0px;
+    font-size:16px;
+    margin-left: -5px;
+    border: none;
+    
+   
+}
+
+/* subs-crib end */
+
+/* email state */
+
+.email{
+   font-size:18px;
+   padding:9px 30px;
+   border-radius:6px 0px 0px 6px;
+   margin-right: -12px;
+   border: none;
+}
+
+/* .email end */
+
+
+
+/* .foo-ter state */
+.foo-ter{
+   background-color: black;
+   color: bisque;
+   text-align: center;
+   margin-top: 80px;
+   padding: 20px 0px;
+
+
+}
+
+/* .foo-ter end */
