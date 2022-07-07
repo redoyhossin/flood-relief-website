@@ -276,6 +276,14 @@ font-family: 'Poppins', sans-serif;
 
  /* possitive end */
 
+ /*img edit state*/
+
+.img-edit{
+   border-radius: 50px;
+}
+
+
+/*img edit end*/
 
 
  /* update state*/
@@ -347,7 +355,7 @@ font-family: 'Poppins', sans-serif;
 /* .foo-ter state */
 .foo-ter{
    background-color: black;
-   color: bisque;
+   color: rgb(247, 179, 97);
    text-align: center;
    margin-top: 80px;
    padding: 20px 0px;
